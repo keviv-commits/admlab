@@ -1,0 +1,2 @@
+echo “hi vivekviswam, welcome “|mail –s “subject ”
+vivekviswam1110@gmail.com
